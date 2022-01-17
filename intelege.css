@@ -1,0 +1,39 @@
+h1 {
+    background: #892727;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.one {
+    background: silver;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.two {
+    background: cornflowerblue;
+    box-sizing: border-box;
+    height: 100px;
+    padding-top: 40px;
+}
+
+.three {
+    width: 200px;
+    height: 200px;
+    background: #6aba67;
+}
+
+.four {
+    border-radius: 20px;
+    background: #8986ac;
+}
+
+
+.five {
+    width: 200px;
+    height: 200px;
+    background: rgb(156, 119, 230);
+    border-radius: 10px;
+    
+}
+
