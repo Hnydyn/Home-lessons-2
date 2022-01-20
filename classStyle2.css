@@ -1,0 +1,53 @@
+.a,.b,.c,.d,.e,.f{
+    width: 100px;
+    height: 100px;
+    background: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+div{
+    display: flex;
+    margin: 10px;
+
+}
+body{
+    background: rgb(218, 214, 214);
+}
+.a{
+    box-shadow: 5px 8px 0 5px #353434;
+    margin-bottom: 10px;
+}
+.b{
+    box-shadow: 5px 8px 3px 5px #353434;
+    margin-bottom: 10px;
+}
+.c{
+    box-shadow: 5px 8px 5px 6px #353434;
+    margin-bottom: 10px;
+}
+.d{
+    box-shadow: 5px 8px 3px 5px rgb(145, 142, 142);
+    margin-bottom: 10px;
+}
+.e{
+    box-shadow: 5px 8px 6px 10px rgb(83, 81, 81);
+    margin-bottom: 10px;
+    border-radius: 6px;
+}
+.f{
+    box-shadow: 5px 8px 10px 10px rgb(145, 142, 142);
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+#oneLine{
+    align-items: center;
+    justify-content: center;
+    margin-top: 210px;
+
+}
+#twoLine{
+    align-items: center;
+    justify-content: center;
+}
